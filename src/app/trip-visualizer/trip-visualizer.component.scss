@@ -1,0 +1,25 @@
+.trip-container {
+    overflow-x: auto;
+    border: 1px solid #ddd;
+    padding: 10px;
+    white-space: nowrap;
+  }
+  
+  .trip-form {
+    margin-bottom: 16px;
+  
+    input {
+      margin-right: 8px;
+      padding: 6px;
+    }
+  
+    button {
+      padding: 6px 12px;
+      margin-right: 8px;
+    }
+  }
+  
+  .reset-btn {
+    padding: 6px 12px;
+    }
+  
